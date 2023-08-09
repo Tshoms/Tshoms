@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Jordy Tshoms
-#### I'm a frontend developer
 ![I'm a frontend developer](https://media.licdn.com/dms/image/D4E16AQHCLLH3UBz0pg/profile-displaybackgroundimage-shrink_350_1400/0/1691443974799?e=1697068800&v=beta&t=usLJH427NIb6qlngHcv4CstJSV1F9fC1FC4xTeu_5r4)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hello World! 
 
+Je suis Jordy Tshoms, développeur Frontend spécialisé dans le langage Javascript. 
+Au cours de mes différentes missions et pour réaliser mes projets perso, j'utilise la librairie React.js.
 Skills: REACT/  TS / JS / HTML / CSS
 
 - 🔭 I’m currently working on https://mrtshomsburger-tshoms.vercel.app/ 
