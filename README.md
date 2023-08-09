@@ -7,10 +7,10 @@ Au cours de mes différentes missions et pour réaliser mes projets perso, j'uti
 
 ##Skills: 
 
-* :atom: REACT
-* :blue_circle: TS
-* :blue_circle: JS
-* :computer: HTML / CSS
+* ⚛️ REACT
+* 🔵 TS
+* 🟡 JS
+* 🖥️ HTML / CSS
 
 - 🔭 I’m currently working on https://mrtshomsburger-tshoms.vercel.app/ 
 - 🌱 I’m currently learning TS 
