@@ -7,8 +7,7 @@ Au cours de mes différentes missions et pour réaliser mes projets perso, j'uti
 
 ##Skills: 
 
-* ![image](https://github.com/Tshoms/Tshoms/assets/59461576/ac046bef-83af-4ffe-8268-1edaad816421)
- REACT
+* ⚛️ REACT
 * 🔵 TS
 * 🟡 JS
 * 🖥️ HTML / CSS
