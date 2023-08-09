@@ -4,7 +4,13 @@ Hello World!
 
 Je suis Jordy Tshoms, développeur Frontend spécialisé dans le langage Javascript. 
 Au cours de mes différentes missions et pour réaliser mes projets perso, j'utilise la librairie React.js.
-Skills: REACT/  TS / JS / HTML / CSS
+
+##Skills: 
+
+* :atom: REACT
+* :blue_circle: TS
+* :blue_circle: JS
+* :computer: HTML / CSS
 
 - 🔭 I’m currently working on https://mrtshomsburger-tshoms.vercel.app/ 
 - 🌱 I’m currently learning TS 
