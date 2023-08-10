@@ -18,8 +18,7 @@ Au cours de mes différentes missions et pour réaliser mes projets perso, j'uti
 
 ##Exemple of Work:
 
-
-<img src="https://media.licdn.com/dms/image/D4E2DAQHPkt5dEIYpVA/profile-treasury-image-shrink_800_800/0/1691363332945?e=1692313200&v=beta&t=P7M7ugAnyFNIojbVjgzNYiSVQLoRjQpttT9qM5Jfl4c" width="256" /> <img src="https://media.licdn.com/dms/image/D4D2DAQHoWG2ZhN0QMg/profile-treasury-image-shrink_800_800/0/1691422408976?e=1692050400&v=beta&t=OWGHC8TxMm9J-kL-zZVYxzySHoV_LYrnr1tY2hsHfPQ" width="256" />
+<img src="https://media.licdn.com/dms/image/C562DAQE6psgGZbH_og/profile-treasury-image-shrink_800_800/0/1602539209413?e=1692313200&v=beta&t=iwWhUCm2AVSRST8MAhao49duQfRQhp5yKzaPMRP5M5U" width="256" /> <img src="https://media.licdn.com/dms/image/D4E2DAQHPkt5dEIYpVA/profile-treasury-image-shrink_800_800/0/1691363332945?e=1692313200&v=beta&t=P7M7ugAnyFNIojbVjgzNYiSVQLoRjQpttT9qM5Jfl4c" width="256" /> <img src="https://media.licdn.com/dms/image/D4D2DAQHoWG2ZhN0QMg/profile-treasury-image-shrink_800_800/0/1691422408976?e=1692050400&v=beta&t=OWGHC8TxMm9J-kL-zZVYxzySHoV_LYrnr1tY2hsHfPQ" width="256" />
 
 
 ##Socials media:
