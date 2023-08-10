@@ -13,10 +13,14 @@ Au cours de mes différentes missions et pour réaliser mes projets perso, j'uti
 * 🖥️ HTML / CSS
 
 - 🔭 I’m currently working on https://mrtshomsburger-tshoms.vercel.app/ 
-- 🌱 I’m currently learning TS 
+- 🌱 I’m currently learning TS
+
+
+##Exemple of Work:
+<img src="https://media.licdn.com/dms/image/D4E2DAQHPkt5dEIYpVA/profile-treasury-image-shrink_800_800/0/1691363332945?e=1692313200&v=beta&t=P7M7ugAnyFNIojbVjgzNYiSVQLoRjQpttT9qM5Jfl4c" width="256" />
+
 
 ##Socials media:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tshoms)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jordy-tshoms-6b27521a2/)  
-
 
