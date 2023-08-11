@@ -1,4 +1,4 @@
-![I'm a frontend developer](https://media.licdn.com/dms/image/D4E16AQHCLLH3UBz0pg/profile-displaybackgroundimage-shrink_350_1400/0/1691443974799?e=1697068800&v=beta&t=usLJH427NIb6qlngHcv4CstJSV1F9fC1FC4xTeu_5r4)
+![I'm a frontend developer](banner-orange-github.jpg)
 
 Hello World! 
 
