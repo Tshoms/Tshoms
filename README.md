@@ -18,7 +18,7 @@ Au cours de mes différentes missions et pour réaliser mes projets perso, j'uti
 
 ##Exemple of Work:
 
-<img src="https://media.licdn.com/dms/image/D4E2DAQHPkt5dEIYpVA/profile-treasury-image-shrink_800_800/0/1691363332945?e=1694098800&v=beta&t=0nFN-s3grkf19h12mnmaw9_RkFY_6tCvmx5DyGKire4" width="256" /> <img src="https://media.licdn.com/dms/image/D4D2DAQHoWG2ZhN0QMg/profile-treasury-image-shrink_800_800/0/1691422408976?e=1694098800&v=beta&t=TSd5xwo5T9Xtt14v_PsIWP5sBVH-Hxpw6ghR0dZ19MA" width="256" /> 
+<img src="https://media.licdn.com/dms/image/D4D2DAQHoWG2ZhN0QMg/profile-treasury-image-shrink_800_800/0/1691422408976?e=1694872800&v=beta&t=jVsDtAJWkj9IagZ42xW6xdpuSzosGdhrm_ZeBwKxPb8" width="256" /> <img src="https://media.licdn.com/dms/image/D4E2DAQHPkt5dEIYpVA/profile-treasury-image-shrink_800_800/0/1691363332945?e=1694872800&v=beta&t=GyM3yY1-LrrFBm1YoG8JtIZdMQHQ1PBZOkCNxqsVSEE" width="256" /> 
 
 
 ##Socials media:
