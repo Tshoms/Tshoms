@@ -13,7 +13,7 @@ Au cours de mes différentes missions et pour réaliser mes projets perso, j'uti
 * 🖥️ HTML / CSS
 
 - 🔭 I’m currently working on https://mrtshomsburger-tshoms.vercel.app/ 
-- 🌱 I’m currently learning TS
+
 
 
 ##Exemple of Work:
